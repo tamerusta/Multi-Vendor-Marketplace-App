@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.search.scope": "all",
+    //"java.jdt.ls.java.home": "C:\\Users\\tamer\\.jdks\\corretto-11.0.22",
+    //"maven.terminal.useJavaHome": true,
+}
