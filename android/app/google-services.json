@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009070463313",
+    "project_id": "multi-vendor-store-df606",
+    "storage_bucket": "multi-vendor-store-df606.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009070463313:android:efa2a61d85245ec9bf9b70",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.maclay_multi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqGpq6DldGc_OqW_nQnLMTeONsiEVgww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
